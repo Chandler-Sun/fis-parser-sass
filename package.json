@@ -17,6 +17,6 @@
         "test" : "mocha test/ut --recursive"
     },
     "dependencies" : {
-        "fis-sass" : "0.1.17"
+        "fis-sass" : "git+https://github.com/Chandler-Sun/fis-sass.git#master"
     }
 }
